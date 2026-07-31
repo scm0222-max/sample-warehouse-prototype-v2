@@ -9,6 +9,7 @@
 备用入口：
 
 - [查看完整原型](https://scm0222-max.github.io/sample-warehouse-prototype-v2/prototype.html)
+- [PRD链接](https://my.feishu.cn/docx/T77TdAhK8onePmxPHWHcCuEhnGf?from=from_copylink)
 
 ## 项目说明
 
@@ -22,5 +23,5 @@
 
 退样入库链路：达人退回后，商务在我们样品仓系统创建退样登记，我们把退货运单信息同步给聚水潭，仓库入库后聚水潭回传入库结果、入库 SKU、数量，用来匹配子申请单退样状态。
 
-prd 链接：https://my.feishu.cn/docx/T77TdAhK8onePmxPHWHcCuEhnGf?from=from_copylink
+
 
