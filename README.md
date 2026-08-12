@@ -5,10 +5,6 @@
 ## 在线预览
 
 👉 [打开达芙妮样品仓](https://scm0222-max.github.io/sample-warehouse-prototype-v2/)
-
-备用入口：
-
-- [查看完整原型](https://scm0222-max.github.io/sample-warehouse-prototype-v2/prototype.html)
 - [PRD链接](https://my.feishu.cn/docx/T77TdAhK8onePmxPHWHcCuEhnGf?from=from_copylink)
 
 ## 项目说明
